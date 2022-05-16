@@ -1,5 +1,5 @@
 # Projects_Python
 
 
-Programs in basic framework for the future development...                                                                                                                                                                                                                                                                            
-                                                        ... or just to practise my coding skills 
+Programs in a basic form for the future development...                                                                                                                                                                                                                                                                            
+                                                        ... or just to practise my coding skills. 
